@@ -1,0 +1,29 @@
+# OSX Junk
+.DS_Store*
+Icon?
+._*
+
+# Windows Junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux Junk
+.directory
+*~
+
+# VS Code
+.vscode
+
+# npm
+.npmrc
+node_modules
+*.log
+*.gz
+
+# misc logs
+log
+
+# config files
+config/env/np
+config/env/production
